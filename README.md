@@ -1,2 +1,1 @@
-# PDP-Uyga-Vazifalar
-Uyga vazifalar
+# Modul 2 in PDP
