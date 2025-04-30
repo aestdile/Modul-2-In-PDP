@@ -1,0 +1,40 @@
+								OOP-Object Oriented Programming
+
+namespace - address(turli xil fayldagi class larni bir-biriga chaqirib ishlatish uchun qo'llaniladi, o'sha class larni yo'li, manzilini ifodalaydi)
+
+class - sinflash
+
+method - class ga tegishli funksiya, ularni class dan tashqarida e'lon qilib bo'lmaydi
+
+property - global o'zgaruvchilarni e'lon qilish
+
+constructor - class nomi bilan bir xil bo'lgan metod, u hech qanday o'zgaruvchi olmaydi
+
+class ichida ochilgan o'zgaruvchi faqat uni ichida ishlay oladi(local)
+
+class tashqarisida ochilgan o'zgaruvchini haq qanday class da chaqirib ishlatish mumkin (default global hisoblanadi)
+
+	Access Modifiers - 4 xil: private, public, protected, internal
+
+		private - bitta class ni ichida ishlaydigan metodlar uchun key
+
+		public - har qanday namespace da ishlaydigan metodlar uchun key
+
+		protected - biror class dan meros olingan vorislar uchun key
+
+		internal - bitta namespace ni ichida ishlaydigan metodlar uchun key
+
+	OOP ni 4 ta tamoyili bor:
+
+		inhertence - class dan voris olish
+
+		polymorphism - bir xil nomli metodlarni qo'llash
+
+		encapsulation - ma'lumotlarni yashirish (private, protected, public kabi modifikatorlar orqali nazorat qilinadi)
+
+		abstraction - keraksiz tafsilotlarni yashirib, faqat kerakli funksionallikni ko‘rsatish
+
+{get; set;} - {get} - global o'zgaruvchidan ma'lumot olish, {set} - global o'zgaruvchi uchun ma'lumot e'lon qilish 
+
+
+
